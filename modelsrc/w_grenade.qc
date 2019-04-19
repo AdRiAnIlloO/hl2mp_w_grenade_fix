@@ -13,7 +13,7 @@ $lod 35
 	nofacial
 }
 
-$surfaceprop "weapon"
+$surfaceprop "grenade"
 
 $contents "solid"
 
