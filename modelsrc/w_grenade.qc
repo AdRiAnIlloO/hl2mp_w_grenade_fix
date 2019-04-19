@@ -21,7 +21,7 @@ $illumposition -0.356 0.216 4.342
 
 $cdmaterials "models\weapons\w_grenade\"
 
-$attachment "fuse" "static_prop" 0 0 9 rotate 0 90 0
+$attachment "fuse" "static_prop" 0 0 8 rotate 0 90 0
 
 $cbox 0 0 0 0 0 0
 
